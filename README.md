@@ -1,7 +1,3 @@
-Here's a concise README file for your project:
-
----
-
 # Event Management System
 
 This is a robust **Event Management System** built with **React** (frontend) and **.NET Core** (backend), using **PostgreSQL** as the database.
