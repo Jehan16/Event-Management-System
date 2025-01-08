@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import store from './actions/store';
+import { store } from './actions/store';
 import { Provider } from 'react-redux';
 import EAttendees from './components/EAttendees';
 
